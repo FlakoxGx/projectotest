@@ -1,0 +1,36 @@
+header{
+    background-color: #1FC375;
+}
+html, body{
+    background-image: url(/img/fondo.png);
+}
+footer{
+    margin-top: 187%;
+}
+.pie{
+    background-color: #ae2828;
+}
+.text{
+    text-decoration: none;
+    color: #ffff;
+    text-align: center;
+}
+.custom-container{
+    width: 200px; 
+    height: 100px;
+    text-align: center;
+}
+.medios{
+    background-color: #EFF320;
+    border-radius: 59px;
+    position: relative;
+    top: 282px;
+}
+.medios2{
+    background-color: #1AA4F1;
+    position: relative;
+    top: 282px;
+}
+
+
+  
